@@ -1,7 +1,7 @@
-### Hi there, I'm Driss ES-SAKHY -  My portfolio (website)
+### Hi there, I'm Driss ES-SAKHY -  [My portfolio] (website)
 
 
-## I'm a IT Student ans Developer ! 
+## I'm a IT Student and Developer ! 
 
 - 🎯 I'm currently learning everything 🤣 
 - 🧩 I'm looking to collaborate more to open Source projects . 
