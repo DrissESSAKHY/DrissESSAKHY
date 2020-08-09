@@ -9,7 +9,7 @@
 - 📌 I'm currently Working for my Own project .
 <br />
 <br />
-<br />
+----------
 
 ### Contact With me :
 
@@ -18,7 +18,7 @@
 [<img align="left" alt="DrissESSAKHY | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/driss_es_sakhy/)
 <br />
 <br />
-<br />
+---------
 
 ### Languages and Tools:
 
@@ -37,7 +37,8 @@
 
 <br />
 <br />
-<br />
+
+-------
 
 * Website : [Portfolio](https://drissessakhy.github.io/me/)
 * Instagram : [Driss ES-SAKHY ](https://www.instagram.com/driss_es_sakhy/)
