@@ -39,11 +39,12 @@
 <br />
 
 -------
-### My Works :
-____________________
-|Nom | Descriptions |
-|    -              |
 
+### My Works :
+
+| Title  | Discription |
+| --------  | -------- |
+| data      | Some long data that <br /> spans multiple lines |
 
 
 -------
