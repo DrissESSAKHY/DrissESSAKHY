@@ -6,7 +6,7 @@
 - 🎯 I'm currently learning everything 🤣 (Right now Spring Boot / Micro-Services)
 - 🧩 I'm looking to collaborate more to open Source projects . 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- 📌 I'm currently Working for myhome project .
+- 📌 I'm currently Working for my Own project .
 <br />
 <br />
 <br />
