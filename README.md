@@ -43,7 +43,7 @@
 ### My Works :
 
 | Title  | Discription |
-| --------  | -------- |
+| :-:  | :-- |
 | data      | Some long data that <br /> spans multiple lines |
 
 
