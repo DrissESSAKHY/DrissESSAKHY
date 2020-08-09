@@ -1,7 +1,7 @@
 ### Hi there, I'm Driss ES-SAKHY -  [My portfolio](website)
 
 
-## I'm a IT Student and Developer ! 
+## I'm a IT Student! 
 
 - 🎯 I'm currently learning everything 🤣 
 - 🧩 I'm looking to collaborate more to open Source projects . 
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-* Website : https://DrissESSAKHY.com
+* Website : [Portfolio](https://drissessakhy.github.io/me/)
 * Instagram : [Driss ES-SAKHY ](https://www.instagram.com/driss_es_sakhy/)
  * Linkedin : [Driss ES-SAKHY](https://www.linkedin.com/in/driss-es-sakhy-5b831b13b/)
 
