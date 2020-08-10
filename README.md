@@ -46,7 +46,7 @@
 ### My Works :
 
 | Title  | Discription | Url | Type |
-| :-:  | :-- |:--|:--|
+| :-:  | :------------------------------------------ |:---------------------|:-----------------|
 |      | Some long data that <br /> spans multiple lines |--||
 
 
