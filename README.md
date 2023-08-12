@@ -5,7 +5,7 @@
 
 - 🎯 I'm currently learning everything 🤣 (Right now Spring Boot / Micro-Services)
 - 🧩 I'm looking to collaborate more to open Source projects . 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Build My app projects
 - 📌 I'm currently Working for my Own project .
 <br />
 <br />
@@ -13,7 +13,7 @@
 
 ### Contact With me :
 
- [<img align="left" alt="DrissESSAKHY.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://drissessakhy.github.io/me/) 
+ [<img align="left" alt="DrissESSAKHY.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://drissessakhy.github.io/) 
  [<img align="left" alt="DrissESSAKHY | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/driss-es-sakhy-5b831b13b/) 
 [<img align="left" alt="DrissESSAKHY | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/driss_es_sakhy/)
 <br />
@@ -52,7 +52,7 @@
 
 -------
 
-* Website : [Portfolio](https://drissessakhy.github.io/me/)
+* Website : [Portfolio](https://drissessakhy.github.io/)
 * Instagram : [Driss ES-SAKHY ](https://www.instagram.com/driss_es_sakhy/)
  * Linkedin : [Driss ES-SAKHY](https://www.linkedin.com/in/driss-es-sakhy-5b831b13b/)
 
